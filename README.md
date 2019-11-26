@@ -8,8 +8,11 @@ Pequeno sistema Web para simular o cadastro de CDs para uma loja de música.
   - Node.js
   - Yarn
 * Clone o projeto
-* Agora é só executar
-
+* Para executar:
+<pre>
+$ npm install
+$ npm start
+</pre>
 # Ferramentas Utilizadas
 * React (framework javascript)
 

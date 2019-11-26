@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+.icon {
+  margin-right: 20px;
+}
+
+.btnArt{
+  background: none;
+  border: none;
+}
+
+.container_alinhamento {
+  margin-top: 50px;
+}
+
+.btn_alinhamento {
+  margin-bottom: 20px;
+}
+
+label {
+  margin-right: 8px;
+}
+
+.btn_salvar {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
